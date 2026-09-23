@@ -7,8 +7,10 @@
 
 num = int(input("Enter the number: "))
 
-if num ==1:
+if num == 1 or num == 0:
     print(num,"is neither prime nor composite")
+elif num == 2:
+    print(num,"is the only even prime number")
 elif num > 1:
     for i in range(2,num):
         if num % i == 0:
