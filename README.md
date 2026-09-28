@@ -342,13 +342,13 @@ python-data-analytics/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/abhijitpavse/python_programs.git
+git clone https://github.com/abhijitpavse/python-data-analytics.git
 ```
 
 ### 2. Navigate to the repository
 
 ```bash
-cd python_programs
+cd python-data-analytics
 ```
 
 ### 3. Check Python installation
