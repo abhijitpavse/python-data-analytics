@@ -1,0 +1,6 @@
+OrderID,Customer,Product,Quantity,Price,OrderDate
+101,Alice,Laptop,1,70000,2025-01-01
+102,Bob,Phone,2,30000,2025-01-05
+103,Charlie,Tablet,1,20000,2025-01-10
+104,David,Laptop,3,70000,2025-01-12
+105,Eva,Phone,2,30000,2025-01-15
